@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/dotenv213/aim/account-service/internal/domain"
-	pb "github.com/dotenv213/aim/account-service/proto/bank"
+	"github.com/aem-0/aim/account-service/internal/domain"
+	pb "github.com/aem-0/aim/account-service/proto/bank"
 )
 
 type BankGrpcHandler struct {

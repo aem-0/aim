@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/dotenv213/aim/auth-service/internal/domain"
-	"github.com/dotenv213/aim/auth-service/pkg/utils"
+	"github.com/aem-0/aim/auth-service/internal/domain"
+	"github.com/aem-0/aim/auth-service/pkg/utils"
 	"github.com/golang-jwt/jwt/v5"
 )
 

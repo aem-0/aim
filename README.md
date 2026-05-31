@@ -70,7 +70,7 @@ graph TD
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/dotenv213/aim.git
+    git clone https://github.com/aem-0/aim.git
     cd aim
     ```
 

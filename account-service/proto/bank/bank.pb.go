@@ -147,7 +147,7 @@ const file_proto_bank_bank_proto_rawDesc = "" +
 	"\n" +
 	"owner_name\x18\x03 \x01(\tR\townerName2Z\n" +
 	"\vBankService\x12K\n" +
-	"\x0eGetBankAccount\x12\x1b.bank.GetBankAccountRequest\x1a\x1c.bank.GetBankAccountResponseB5Z3github.com/dotenv213/aim/account-service/proto/bankb\x06proto3"
+	"\x0eGetBankAccount\x12\x1b.bank.GetBankAccountRequest\x1a\x1c.bank.GetBankAccountResponseB5Z3github.com/aem-0/aim/account-service/proto/bankb\x06proto3"
 
 var (
 	file_proto_bank_bank_proto_rawDescOnce sync.Once

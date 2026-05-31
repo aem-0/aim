@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package bank;
 
-option go_package = "github.com/dotenv213/aim/account-service/proto/bank";
+option go_package = "github.com/aem-0/aim/account-service/proto/bank";
 
 service BankService {
   rpc GetBankAccount (GetBankAccountRequest) returns (GetBankAccountResponse);

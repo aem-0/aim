@@ -3,12 +3,12 @@ package main
 import (
 	"log"
 
-	"github.com/dotenv213/aim/auth-service/internal/domain"
-	"github.com/dotenv213/aim/auth-service/internal/handler/http"
-	"github.com/dotenv213/aim/auth-service/internal/repository"
-	"github.com/dotenv213/aim/auth-service/internal/service"
-	"github.com/dotenv213/aim/auth-service/pkg/config"
-	"github.com/dotenv213/aim/auth-service/pkg/database"
+	"github.com/aem-0/aim/auth-service/internal/domain"
+	"github.com/aem-0/aim/auth-service/internal/handler/http"
+	"github.com/aem-0/aim/auth-service/internal/repository"
+	"github.com/aem-0/aim/auth-service/internal/service"
+	"github.com/aem-0/aim/auth-service/pkg/config"
+	"github.com/aem-0/aim/auth-service/pkg/database"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 )

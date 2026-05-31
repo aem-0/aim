@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dotenv213/aim/transaction-service/internal/domain"
-	grpcClient "github.com/dotenv213/aim/transaction-service/pkg/client/grpc"
-	"github.com/dotenv213/aim/transaction-service/pkg/rabbitmq"
+	"github.com/aem-0/aim/transaction-service/internal/domain"
+	grpcClient "github.com/aem-0/aim/transaction-service/pkg/client/grpc"
+	"github.com/aem-0/aim/transaction-service/pkg/rabbitmq"
 )
 
 type transactionService struct {

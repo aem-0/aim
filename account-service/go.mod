@@ -1,4 +1,4 @@
-module github.com/dotenv213/aim/account-service
+module github.com/aem-0/aim/account-service
 
 go 1.24.6
 

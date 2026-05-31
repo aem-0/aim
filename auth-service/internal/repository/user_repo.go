@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"github.com/dotenv213/aim/auth-service/internal/domain"
+	"github.com/aem-0/aim/auth-service/internal/domain"
 	"gorm.io/gorm"
 )
 

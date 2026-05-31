@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	pb "github.com/dotenv213/aim/account-service/proto/bank"
+	pb "github.com/aem-0/aim/account-service/proto/bank"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )

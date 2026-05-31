@@ -3,7 +3,7 @@ package database
 import (
 	"log"
 
-	"github.com/dotenv213/aim/transaction-service/internal/domain"
+	"github.com/aem-0/aim/transaction-service/internal/domain"
 	"gorm.io/gorm"
 )
 

@@ -1,9 +1,9 @@
-module github.com/dotenv213/aim/transaction-service
+module github.com/aem-0/aim/transaction-service
 
 go 1.24.6
 
 require (
-	github.com/dotenv213/aim/account-service v0.0.0-00010101000000-000000000000
+	github.com/aem-0/aim/account-service v0.0.0-00010101000000-000000000000
 	github.com/gofiber/fiber/v2 v2.52.10
 	github.com/golang-jwt/jwt/v5 v5.3.0
 	github.com/joho/godotenv v1.5.1
@@ -39,4 +39,4 @@ require (
 	google.golang.org/protobuf v1.36.11 // indirect
 )
 
-replace github.com/dotenv213/aim/account-service => ../account-service
+replace github.com/aem-0/aim/account-service => ../account-service

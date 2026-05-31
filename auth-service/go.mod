@@ -1,4 +1,4 @@
-module github.com/dotenv213/aim/auth-service
+module github.com/aem-0/aim/auth-service
 
 go 1.24.6
 

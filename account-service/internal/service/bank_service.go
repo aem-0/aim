@@ -2,7 +2,7 @@ package service
 
 import (
 	"fmt"
-	"github.com/dotenv213/aim/account-service/internal/domain"
+	"github.com/aem-0/aim/account-service/internal/domain"
 )
 
 type bankService struct {

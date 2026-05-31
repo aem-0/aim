@@ -3,7 +3,7 @@ package http
 import (
 	"net/http"
 
-	"github.com/dotenv213/aim/account-service/internal/domain"
+	"github.com/aem-0/aim/account-service/internal/domain"
 	"github.com/gofiber/fiber/v2"
 )
 

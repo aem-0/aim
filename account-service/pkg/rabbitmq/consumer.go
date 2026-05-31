@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/dotenv213/aim/account-service/internal/domain"
+	"github.com/aem-0/aim/account-service/internal/domain"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

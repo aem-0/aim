@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/dotenv213/aim/transaction-service/pkg/config"
+	"github.com/aem-0/aim/transaction-service/pkg/config"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
